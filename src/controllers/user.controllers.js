@@ -9,7 +9,7 @@ import { ApiResponse } from "../utils/ApiResponse.js";
 const registerUser = asyncHandler(async(req,res)=>{
     // res.status(200).json({
     //     message: "Ravi Kumar"
-    // })
+    // }) 
 
 //Get user details from frontend
 //Validation-not empty
